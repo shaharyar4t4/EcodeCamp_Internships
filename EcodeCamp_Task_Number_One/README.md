@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![BMI Calculator Screenshot](https://github.com/shaharyar4t4/BMI-Calculator/blob/master/ss.jpg)
+![todo Screenshot](EcodeCamp_Task_Number_One/image.jpg)
