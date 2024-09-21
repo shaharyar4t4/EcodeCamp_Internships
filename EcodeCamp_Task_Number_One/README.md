@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![todo Screenshot](EcodeCamp_Task_Number_One/image.jpg)
+![todo Screenshot](https://github.com/shaharyar4t4/EcodeCamp_Internships/blob/main/EcodeCamp_Task_Number_One/image.jpg)
